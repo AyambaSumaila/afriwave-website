@@ -49,7 +49,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
 
-For any questions or inquiries, please contact us at info@afriwave.com.
+For any questions or inquiries, please contact us at info@afriwave.com
 
 
 ![](video/video.mkv)
