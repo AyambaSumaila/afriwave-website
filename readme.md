@@ -52,4 +52,9 @@ Contact
 For any questions or inquiries, please contact us at info@afriwave.com
 
 
-![](video/video.mkv)
+![](video/pict.png)
+![](video/pict_2.png)
+![](video/pict_3.png)
+![](video/pict_4.png)
+![](video/pict_5.png)
+
